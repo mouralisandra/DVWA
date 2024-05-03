@@ -1,6 +1,5 @@
 # Name of this GitHub Actions workflow.
 name: Semgrep
-
 on:
   # Scan changed files in PRs (diff-aware scanning):
   push:
